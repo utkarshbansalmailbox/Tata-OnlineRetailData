@@ -7,5 +7,5 @@ Over the period of June 2023 to July 2023, I completed practical tasks in:
 
 Skills: Data Analysis, Data Visualisation
 
-To view Visualization [click me](https://public.tableau.com/views/TataOnlineRetailData/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+To view Visualization (Tableau) [click me](https://public.tableau.com/views/TataOnlineRetailData/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
  
